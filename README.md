@@ -1,2 +1,3 @@
 # prepcurse-Henry
-Repositorio de prueba del prepcuse de henry
+ESTE PROYECTO ES UNA PRUEBA DE COMO CLONAR UN REPOSITORIO 
+Repositorio de prueba del prepcurse de henry
